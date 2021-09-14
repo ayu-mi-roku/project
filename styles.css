@@ -1,0 +1,74 @@
+body{
+  font-family: font-family: 'Dancing Script', cursive;
+  padding: 7 4 3 ;
+}
+
+
+#title {
+background-color:#d8b0b7;
+color: rgb(65, 65, 212);
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  size: 4 rem;
+  line-height: 1.5;
+
+}
+h3{
+  font-family: font-family: 'Dancing Script', cursive;
+}
+p{
+  color:rgb(93, 100, 107)
+}
+
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+  size: 3.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+.first-button{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+  width: 80%;
+  transform: rotate(12deg);
+  
+}
+.book{
+  width: 25%;
+}
+
+#features{
+  padding: 10%;
+  
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+.testimonial{
+  text-align: center;
+  padding: 5%;
+}
+.press{
+  padding: 4%;
+  
+}
+#footer{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
